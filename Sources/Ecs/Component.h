@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../Base/LaObject.h"
+#include "Base/LaObject.h"
 
 class Component : public LaObject {
 

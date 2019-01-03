@@ -1,11 +1,11 @@
 #pragma once
 
 #include <vector>
-#include "../Base/LaObject.h"
+#include "Base/LaObject.h"
 
 class Component;
 
-class Entity : public LaObject{
+class Entity : public LaObject {
 public:
     Entity() = default;
 
